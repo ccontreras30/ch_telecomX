@@ -2,7 +2,7 @@
 Challenge ONE Data Science - Telecom X
 # Análisis de Evasión de Clientes (Churn) – TelecomX
 
-Este proyecto tiene como objetivo identificar patrones de abandono de clientes (evsaión o churn) en una empresa de telecomunicaciones ficticia llamada **TelecomX**. A través del análisis de datos reales anonimizados y herramientas de Python, se generan insights estratégicos que pueden ser utilizados para mejorar la retención de clientes.
+Este proyecto tiene como objetivo identificar patrones de abandono de clientes (churn, desde ahora evasión) en una empresa de telecomunicaciones ficticia llamada **TelecomX**. A través del análisis de datos reales anonimizados y herramientas de Python, se generan insights estratégicos que pueden ser utilizados para mejorar la retención de clientes.
 
 ---
 
